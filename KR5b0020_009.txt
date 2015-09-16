@@ -1,8 +1,0 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 太上洞玄靈寶業報因緣經
-#+DATE: 2015-08-28 23:47:34
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 9
-
-䝉
